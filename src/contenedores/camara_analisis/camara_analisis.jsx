@@ -1,5 +1,5 @@
 import React from 'react'
-import 'camara_analisis.css'
+import './camara_analisis.css'
 
 const camara_analisis = () => {
   return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import ':/bloque.css'
+import './bloque.css'
 
 const bloque = () => {
   return (
