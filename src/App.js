@@ -1,11 +1,22 @@
 import React from 'react'
 
-import { navbar, bloque } from './componentes';
-import { camara_analisis, form_analisis, header, historial, info_general } from './contenedores';
+import { Navbar, Bloque } from './componentes';
+import { Camara, Form, Header, Historial, Info } from './contenedores';
+
 const App = () => {
   return (
-    <div>
-        <h1>Dermatos</h1>
+    <div className="App">
+        <div>
+          <Navbar />
+          <Header />
+        </div>
+        <div>
+          <Bloque />
+          <Camara />
+          <Form />
+          <Historial />
+          <Info />
+        </div>
     </div>
   )
 }

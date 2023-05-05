@@ -1,12 +1,12 @@
 import React from 'react'
 import './historial.css'
 
-const historial = () => {
+const Historial = () => {
   return (
     <div>
-        historial
+        Historial
     </div>
   )
 }
 
-export default historial
+export default Historial

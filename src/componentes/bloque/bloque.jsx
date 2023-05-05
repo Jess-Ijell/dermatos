@@ -1,12 +1,12 @@
 import React from 'react'
 import './bloque.css'
 
-const bloque = () => {
+const Bloque = () => {
   return (
     <div>
-        bloque
+        Bloque
     </div>
   )
 }
 
-export default bloque
+export default Bloque
