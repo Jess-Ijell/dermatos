@@ -40,7 +40,7 @@ const Navbar = () =>
               <div className="navbar-menu_container scale-up-center">
                 <div className="navbar-menu_containter-links">
                   <Menuu />
-                  <div className="navbar-menu_containter-links-sign">
+                  <div className="navbar-menu_container-links-sign">
                     <p>sign in</p>
                     <p>sign up</p>
                   </div>
