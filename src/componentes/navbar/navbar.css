@@ -76,7 +76,8 @@
 .navbar-menu_container p {
     margin: 0.9rem 0;
     color: blanchedalmond;
-    font-family: Tahoma;
+    font-family: sans-serif;
+    font-size: 18px;
 }
 
 .navbar-menu_container-links-sign {
@@ -108,7 +109,7 @@
         padding: 2rem;
     }
 
-    .navbar-sign {
+    .navbar-links-sign {
         display: none;
     }
     
@@ -120,3 +121,4 @@
         display: block;
     }
 }
+
